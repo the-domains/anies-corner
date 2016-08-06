@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-06T06:42:36.781Z'
+datePublished: '2016-08-06T06:46:01.521Z'
 sourcePath: _posts/2016-08-06-the-red-notebook.md
-author: []
+author:
+  - url: 'https://www.goodreads.com/book/show/23129712-the-red-notebook'
+    name: GoodReads
 via: {}
-dateModified: '2016-08-06T06:42:36.277Z'
+dateModified: '2016-08-06T06:46:01.003Z'
 title: ''
 publisher: {}
 description: The Red Notebook
