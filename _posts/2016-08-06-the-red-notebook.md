@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-06T06:46:01.521Z'
+datePublished: '2016-08-06T06:47:08.466Z'
 sourcePath: _posts/2016-08-06-the-red-notebook.md
 author:
   - url: 'https://www.goodreads.com/book/show/23129712-the-red-notebook'
     name: GoodReads
 via: {}
-dateModified: '2016-08-06T06:46:01.003Z'
-title: ''
+dateModified: '2016-08-06T06:47:07.963Z'
+title: The Red Notebook
 publisher: {}
-description: The Red Notebook
+description: ''
 starred: false
 inFeed: true
 hasPage: false
@@ -18,11 +18,11 @@ _type: MediaObject
 ---
 ![The Red Notebook](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22e9e389-f5c1-407d-be1b-2623c5eb68ff.jpg)
 
-The Red Notebook
+# The Red Notebook
 
 Another book added to the 2016 100 Books a year challenge!
 
-# Favorite Quotes
+## Favorite Quotes
 
 "How many things do we feel obliged to do for the sake of it, or for appearances, or because we are trained to do them, but which weigh us down and don't in fact achieve anything?"
 
