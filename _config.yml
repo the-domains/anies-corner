@@ -1,16 +1,20 @@
-typography_spectrum: 0.7360998271033168
+typography_spectrum: 0.21538795670494437
 color:
-  brandStrength: 0.8856518799439073
-  lightness: 0.4834570314269513
-  saturation: 0.7428350027184933
-  rhythmicContrast: 0.3284959236625582
+  brandStrength: 0.413399362238124
+  lightness: 0.5010368512012064
+  saturation: 0.5465056363027543
+  rhythmicContrast: 0.4161839138250798
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-layout_spectrum: 0.059273612685501575
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.5507595748640597
 name: Anie's Corner
+navigation:
+  - name: About Me
+    id: f0496487-bc85-4ae2-8392-d0c00c966de2
+    type: content
 title: Welcome to Anie's Corner
 description: Tagline
