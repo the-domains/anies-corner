@@ -1,13 +1,13 @@
 ---
-description: The Red Notebook
-dateModified: '2016-08-06T06:38:30.627Z'
-datePublished: '2016-08-06T06:39:04.150Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-06T06:42:36.781Z'
 sourcePath: _posts/2016-08-06-the-red-notebook.md
+author: []
+via: {}
+dateModified: '2016-08-06T06:42:36.277Z'
+title: ''
+publisher: {}
+description: The Red Notebook
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -18,4 +18,12 @@ _type: MediaObject
 
 The Red Notebook
 
-Finished reading The Red Notebook!
+Another book added to the 2016 100 Books a year challenge!
+
+# Favorite Quotes
+
+"How many things do we feel obliged to do for the sake of it, or for appearances, or because we are trained to do them, but which weigh us down and don't in fact achieve anything?"
+
+"We can pass right by something very important: love, a job, moving to another city or another country. We passed by, we passed by so close that something of the experience remains."
+
+"There, it was over. How was it so easy to disappear from someone else's life? Perhaps it was with the same ease that you enter it. A chance meeting, a few words exchanged, and a relationship begins. A chance falling out, a few words exchanged and that same relationship is over."
