@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-06T09:10:12.875Z'
+datePublished: '2016-08-06T09:21:39.372Z'
 sourcePath: _posts/2016-08-06-sapiens-from-yuval-noah-harari.md
 author: []
 via: {}
-dateModified: '2016-08-06T09:10:12.738Z'
+dateModified: '2016-08-06T09:21:38.764Z'
 title: Sapiens from Yuval Noah Harari
 publisher: {}
 description: Finished reading!
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: sapiens-from-yuval-noah-harari/index.html
+_type: Blurb
 
 ---
 ![Book Caption](https://the-grid-user-content.s3-us-west-2.amazonaws.com/076657e9-3978-47ab-886f-bcd976bc5ffd.jpg)
