@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-06T06:47:08.466Z'
+datePublished: '2016-08-06T06:57:55.260Z'
 sourcePath: _posts/2016-08-06-the-red-notebook.md
 author:
   - url: 'https://www.goodreads.com/book/show/23129712-the-red-notebook'
     name: GoodReads
 via: {}
-dateModified: '2016-08-06T06:47:07.963Z'
-title: The Red Notebook
+dateModified: '2016-08-06T06:57:54.747Z'
+title: The Red Notebook from Antoine Laurain
 publisher: {}
-description: ''
+description: Title?
 starred: false
 inFeed: true
 hasPage: false
@@ -16,9 +16,10 @@ inNav: false
 _type: MediaObject
 
 ---
+Title?
 ![The Red Notebook](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22e9e389-f5c1-407d-be1b-2623c5eb68ff.jpg)
 
-# The Red Notebook
+# The Red Notebook from Antoine Laurain
 
 Another book added to the 2016 100 Books a year challenge!
 
