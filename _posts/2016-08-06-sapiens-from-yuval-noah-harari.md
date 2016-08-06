@@ -1,13 +1,13 @@
 ---
 description: Finished reading!
-dateModified: '2016-08-06T08:54:10.677Z'
-datePublished: '2016-08-06T08:56:42.045Z'
+dateModified: '2016-08-06T09:03:46.055Z'
+datePublished: '2016-08-06T09:03:46.865Z'
 title: Sapiens from Yuval Noah Harari
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-06-sapiens-from-yuval-noah-harari.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
