@@ -6,9 +6,10 @@ color:
   saturation: 0.5465056363027543
   rhythmicContrast: 0.4161839138250798
   brandColors:
-    - '#1C242F'
-    - '#E2CDB0'
-    - '#596774'
-    - '#FEFEA4'
-    - '#F4A944'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Anie's Corner
+title: Welcome to Anie's Corner
