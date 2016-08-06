@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome to Anie's Corner]]></description>
         <link>https://thegrid.ai/anies-corner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 08:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 08:30:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anies-corner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/anies-corner/a33a3082-6b35-46fa-9c33-04fd45850ea7/index.html</link>
             <guid isPermaLink="false">a33a3082-6b35-46fa-9c33-04fd45850ea7</guid>
             <pubDate>Sat, 06 Aug 2016 08:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/412ae72e-76ac-4103-8479-015f7354b88a.jpg">]]></description>
-            <link>https://thegrid.ai/anies-corner/f1632c00-b441-4570-b7ec-435732a72bcb/index.html</link>
-            <guid isPermaLink="false">f1632c00-b441-4570-b7ec-435732a72bcb</guid>
-            <pubDate>Sat, 06 Aug 2016 08:29:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +33,6 @@
             <link>https://thegrid.ai/anies-corner/364b58a8-0a77-4f86-8408-c8f5d3a4ca35/index.html</link>
             <guid isPermaLink="false">364b58a8-0a77-4f86-8408-c8f5d3a4ca35</guid>
             <pubDate>Sat, 06 Aug 2016 08:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/199a0fa9-0641-4243-8404-91240b946f5b.jpg">]]></description>
-            <link>https://thegrid.ai/anies-corner/88b1cbaa-3278-44b2-9247-aa6d444b9d69/index.html</link>
-            <guid isPermaLink="false">88b1cbaa-3278-44b2-9247-aa6d444b9d69</guid>
-            <pubDate>Sat, 06 Aug 2016 08:29:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
