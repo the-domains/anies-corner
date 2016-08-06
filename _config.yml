@@ -12,6 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.5507595748640597
 name: Anie's Corner
-navigation: []
+navigation:
+  - name: Books
+    url: 'https://thegrid.ai/anies-corner-books'
+    type: external
 title: Welcome to Anie's Corner
 description: Tagline
