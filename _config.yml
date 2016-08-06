@@ -19,5 +19,8 @@ navigation:
   - name: 100 Books a Year
     id: 0630ddd7-2179-41d5-bbc6-52f0490671e6
     type: content
+  - name: Photos
+    id: 47a18e42-0ced-4643-a9e9-3e5223c2f82b
+    type: content
 title: Welcome to Anie's Corner
 description: Tagline
