@@ -12,18 +12,6 @@ color:
     - '#160600'
 layout_spectrum: 0.5507595748640597
 name: Anie's Corner
-navigation:
-  - name: About Me
-    id: f0496487-bc85-4ae2-8392-d0c00c966de2
-    type: content
-  - name: 100 Books a Year
-    id: 0630ddd7-2179-41d5-bbc6-52f0490671e6
-    type: content
-  - name: Photos
-    id: 47a18e42-0ced-4643-a9e9-3e5223c2f82b
-    type: content
-  - name: 100 Books a Year
-    id: 46eda56a-b696-4494-bb57-461c2028b2f7
-    type: content
+navigation: []
 title: Welcome to Anie's Corner
 description: Tagline
