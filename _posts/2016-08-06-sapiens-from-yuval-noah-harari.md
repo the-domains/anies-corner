@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T09:06:05.779Z'
+datePublished: '2016-08-06T09:10:12.875Z'
 sourcePath: _posts/2016-08-06-sapiens-from-yuval-noah-harari.md
 author: []
 via: {}
-dateModified: '2016-08-06T09:06:05.273Z'
+dateModified: '2016-08-06T09:10:12.738Z'
 title: Sapiens from Yuval Noah Harari
 publisher: {}
 description: Finished reading!
