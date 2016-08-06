@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T07:09:40.183Z'
+datePublished: '2016-08-06T09:10:12.941Z'
 sourcePath: _posts/2016-08-06-the-bat-from-jo-nesbo.md
 author: []
 via: {}
-dateModified: '2016-08-06T07:09:39.621Z'
+dateModified: '2016-08-06T09:10:12.768Z'
 title: The Bat from Jo Nesbo
 publisher: {}
 description: Book Title?
