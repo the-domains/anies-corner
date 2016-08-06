@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T07:17:28.437Z'
+datePublished: '2016-08-06T07:18:38.753Z'
 sourcePath: _posts/2016-08-06-the-red-notebook.md
 author:
   - url: 'https://www.goodreads.com/book/show/23129712-the-red-notebook'
     name: GoodReads
 via: {}
-dateModified: '2016-08-06T07:17:27.994Z'
+dateModified: '2016-08-06T07:18:38.178Z'
 title: The Red Notebook from Antoine Laurain
 publisher: {}
 description: Line 1
