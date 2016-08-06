@@ -1,20 +1,21 @@
 ---
-description: ''
-dateModified: '2016-08-06T06:56:23.221Z'
-datePublished: '2016-08-06T06:56:25.031Z'
-title: The Bat from Jo Nesbo
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-06T07:09:40.183Z'
 sourcePath: _posts/2016-08-06-the-bat-from-jo-nesbo.md
+author: []
+via: {}
+dateModified: '2016-08-06T07:09:39.621Z'
+title: The Bat from Jo Nesbo
+publisher: {}
+description: Book Title?
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/715ef03e-8f5f-442d-a91d-75ec9c8dfc88.jpg)
+Book Title?
+![Book Caption?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/715ef03e-8f5f-442d-a91d-75ec9c8dfc88.jpg)
 
 # The Bat from Jo Nesbo
 
