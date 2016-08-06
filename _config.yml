@@ -16,5 +16,8 @@ navigation:
   - name: About Me
     id: f0496487-bc85-4ae2-8392-d0c00c966de2
     type: content
+  - name: 100 Books a Year
+    id: 0630ddd7-2179-41d5-bbc6-52f0490671e6
+    type: content
 title: Welcome to Anie's Corner
 description: Tagline
